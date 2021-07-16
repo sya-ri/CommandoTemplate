@@ -1,0 +1,20 @@
+{
+  "name": "commandotemplate",
+  "version": "1.0.0",
+  "description": "discord.js 公式コマンドフレームワーク \"Commando\" のテンプレート",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merunno/CommandoTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+    "homepage": "https://github.com/merunno/CommandoTemplate#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3"
+  }
+}
