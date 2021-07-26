@@ -16,4 +16,4 @@ discord.jsの公式コマンドフレームワーク **"Commando "** のテン�
 このテンプレートを使用するには、パッケージをダウンロードする必要があります。
 Commandoはnode v12.0.0 以上が必要です。
 
-詳しい説明は [公式カンファレンス](https://guide.discordjs-japan.org/commando/#index-js-ファイルの作成) をご覧ください。
+詳しい説明は [公式リファレンス](https://guide.discordjs-japan.org/commando/#index-js-ファイルの作成) をご覧ください。

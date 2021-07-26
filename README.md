@@ -21,4 +21,4 @@ Run:
 $ npm i discord.js@12 discord.js-commando
 ```
 
-Check out [the official conference](https://guide.discordjs-japan.org/commando/#index-js-ファイルの作成) for a detailed explanation.
+Check out [the official reference](https://guide.discordjs-japan.org/commando/#index-js-ファイルの作成) for a detailed explanation.
